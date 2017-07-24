@@ -1,0 +1,3 @@
+Just playing with Play framework features...
+stupid authentication system implimented.
+
